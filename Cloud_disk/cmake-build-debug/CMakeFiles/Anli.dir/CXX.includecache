@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pl/mongodb/project/ods/CMysql.h
+
+/home/pl/mongodb/project/ods/main.cpp
+iostream
+-
+vector
+-
+string
+-
+CMysql.h
+/home/pl/mongodb/project/ods/CMysql.h
+
